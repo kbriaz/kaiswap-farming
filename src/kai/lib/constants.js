@@ -26,16 +26,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   kai: {
-    56: '0xFa7D529f93f862D48702E7D53fA2dE8672798056',
+    56: '0xfd9e9220ECe1Ce92687A8f5FeE446B9f310Aa0d2',
   },
   masterChef: {
-    56: '0x3F85BD941027dA99e1aa3536FFFF4acD50E4D23C',
+    56: '0x388D516dD49946b282817F42F79bf1d51A931a81',
   },
   weth: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   xKai: {
-    56: '0x08395e86A610b458626dA5B874E9fD728CfB424c'
+    56: '0x9E7557304f48742eA341Da5a2a50A02BcF358cbF'
   }
 }
 
@@ -45,13 +45,13 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      56: '0xFa7D529f93f862D48702E7D53fA2dE8672798056',
+      56: '0xfd9e9220ECe1Ce92687A8f5FeE446B9f310Aa0d2',
     },
     tokenAddresses: {
-      56: '0xFa7D529f93f862D48702E7D53fA2dE8672798056',
+      56: '0xfd9e9220ECe1Ce92687A8f5FeE446B9f310Aa0d2',
     },
     name: 'Kai Style!',
-    symbol: 'KAI-KAI',
+    symbol: 'KAI-WBNB',
     tokenSymbol: 'KAI',
     icon: '⚖️',
   },
