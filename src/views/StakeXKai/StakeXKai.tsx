@@ -17,7 +17,7 @@ const StakeXKai: React.FC = () => {
   const {
     tokenAddress,
   } = {
-    tokenAddress: contractAddresses.xKai[97],
+    tokenAddress: contractAddresses.xKai[56],
   }
 
   const [totalSupply, setTotalSupply] = useState<BigNumber>()
